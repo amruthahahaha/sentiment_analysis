@@ -1,5 +1,4 @@
 # Sentiment & Emotion Analysis in Python
-A Python project that performs sentiment and emotion analysis using a custom emotion dictionary and VADER.
 
 This project analyzes text data to identify emotions and sentiment using:
 - Custom emotion dictionary
