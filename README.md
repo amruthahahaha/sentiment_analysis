@@ -29,5 +29,5 @@ Upon execution, the script will:
 - 1.Display sentiment scores using VADER (Positive, Negative, Neutral)
 - 2.Count and display the frequency of detected emotions
 - 3.Generate:
-     emotion_bar.png: A bar graph showing emotion distribution
-     wordcloud.png: A word cloud of key non-stop words in the input text
+     - emotion_bar.png: A bar graph showing emotion distribution
+     - wordcloud.png: A word cloud of key non-stop words in the input text
