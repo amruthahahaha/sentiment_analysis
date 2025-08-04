@@ -20,6 +20,14 @@ This project analyzes text data to identify emotions and sentiment using:
 - `requirements.txt` – Required Python libraries
 
 ## How to Run
-1. Install dependencies using requirements.txt
-2.Place your input text in sample.txt
-3.Run the script: sentiment.py
+- 1. Install dependencies using requirements.txt
+- 2.Place your input text in sample.txt
+- 3.Run the script: sentiment.py
+
+## Output
+Upon execution, the script will:
+- 1.Display sentiment scores using VADER (Positive, Negative, Neutral)
+- 2.Count and display the frequency of detected emotions
+- 3.Generate:
+- emotion_bar.png: A bar graph showing emotion distribution
+- wordcloud.png: A word cloud of key non-stop words in the input text
